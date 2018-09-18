@@ -100,6 +100,4 @@ class VesselImages:
 
         plt.imshow(new_image)
         plt.show()        
-        
-
-
+        return new_image
